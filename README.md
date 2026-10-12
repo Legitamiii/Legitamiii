@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,50:7c3aed,100:00f7ff&text=Hey,%20I%27m%20Vinci&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Python%20learner%20in%20the%20making&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Hey, I'm Vinci" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,50:7c3aed,100:00f7ff&text=Hey,%20I%27m%20Legitami&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Python%20learner%20in%20the%20making&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Hey, I'm Vinci" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=640&lines=Learning+Python+one+bug+at+a+time;Breaking+code.+Fixing+code.+Repeat.;Every+error+message+is+a+free+lesson." alt="Typing animation" />
 

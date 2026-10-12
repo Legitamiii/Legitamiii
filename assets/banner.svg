@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="1200" height="480" role="img" aria-label="Legitami - Python learner in the making">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="1200" height="480" role="img" aria-label="Legitami - developer in progress">
 <defs>
 <clipPath id="frame"><rect width="1200" height="480" rx="28"/></clipPath>
 <clipPath id="above"><rect width="1200" height="300"/></clipPath>
-<clipPath id="typed"><rect x="282" y="206" height="42" width="0"><animate attributeName="width" dur="11s" repeatCount="indefinite" calcMode="discrete" values="0;12;24;36;48;60;72;84;96;108;120;132;144;156;168;180;192;204;216;228;240;252;264;276;288;300;312;324;336;348;360;372;384;396;408;420;432;444;456;468;480;492;504;516;528;540;552;564;576;588;600;612;624;636" keyTimes="0.0000;0.0068;0.0136;0.0204;0.0272;0.0340;0.0408;0.0475;0.0543;0.0611;0.0679;0.0747;0.0815;0.0883;0.0951;0.1019;0.1087;0.1155;0.1223;0.1291;0.1358;0.1426;0.1494;0.1562;0.1630;0.1698;0.1766;0.1834;0.1902;0.1970;0.2038;0.2106;0.2174;0.2242;0.2309;0.2377;0.2445;0.2513;0.2581;0.2649;0.2717;0.2785;0.2853;0.2921;0.2989;0.3057;0.3125;0.3192;0.3260;0.3328;0.3396;0.3464;0.3532;0.3600"/></rect></clipPath>
+<clipPath id="typed"><rect x="270" y="206" height="42" width="0"><animate attributeName="width" dur="11s" repeatCount="indefinite" calcMode="discrete" values="0;12;24;36;48;60;72;84;96;108;120;132;144;156;168;180;192;204;216;228;240;252;264;276;288;300;312;324;336;348;360;372;384;396;408;420;432;444;456;468;480;492;504;516;528;540;552;564;576;588;600;612;624;636;648;660" keyTimes="0.0000;0.0065;0.0131;0.0196;0.0262;0.0327;0.0393;0.0458;0.0524;0.0589;0.0655;0.0720;0.0785;0.0851;0.0916;0.0982;0.1047;0.1113;0.1178;0.1244;0.1309;0.1375;0.1440;0.1505;0.1571;0.1636;0.1702;0.1767;0.1833;0.1898;0.1964;0.2029;0.2095;0.2160;0.2225;0.2291;0.2356;0.2422;0.2487;0.2553;0.2618;0.2684;0.2749;0.2815;0.2880;0.2945;0.3011;0.3076;0.3142;0.3207;0.3273;0.3338;0.3404;0.3469;0.3535;0.3600"/></rect></clipPath>
 <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#04010d"/><stop offset=".55" stop-color="#150833"/><stop offset=".74" stop-color="#3a0f63"/><stop offset="1" stop-color="#3a0f63"/></linearGradient>
 <linearGradient id="ground" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#12052b"/><stop offset="1" stop-color="#05010d"/></linearGradient>
 <linearGradient id="sun" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffd166"/><stop offset=".45" stop-color="#ff2bd6"/><stop offset="1" stop-color="#7c3aed"/></linearGradient>
@@ -53,9 +53,9 @@
 <text x="600" y="178" text-anchor="middle" textLength="690" lengthAdjust="spacing" class="t g2">LEGITAMI</text>
 <text x="600" y="178" text-anchor="middle" textLength="690" lengthAdjust="spacing" class="t" fill="#fff">LEGITAMI</text>
 </g>
-<rect x="256" y="206" width="702" height="42" rx="21" fill="#0a0220" stroke="#7c3aed" stroke-width="1.5"/>
-<g clip-path="url(#typed)"><text class="sub" x="282" y="234" textLength="636" lengthAdjust="spacing">&gt; python learner // bug hunter // builder in progress</text></g>
-<rect class="cur" x="285" y="216" width="10" height="22"><animate attributeName="x" dur="11s" repeatCount="indefinite" calcMode="discrete" values="285;297;309;321;333;345;357;369;381;393;405;417;429;441;453;465;477;489;501;513;525;537;549;561;573;585;597;609;621;633;645;657;669;681;693;705;717;729;741;753;765;777;789;801;813;825;837;849;861;873;885;897;909;921" keyTimes="0.0000;0.0068;0.0136;0.0204;0.0272;0.0340;0.0408;0.0475;0.0543;0.0611;0.0679;0.0747;0.0815;0.0883;0.0951;0.1019;0.1087;0.1155;0.1223;0.1291;0.1358;0.1426;0.1494;0.1562;0.1630;0.1698;0.1766;0.1834;0.1902;0.1970;0.2038;0.2106;0.2174;0.2242;0.2309;0.2377;0.2445;0.2513;0.2581;0.2649;0.2717;0.2785;0.2853;0.2921;0.2989;0.3057;0.3125;0.3192;0.3260;0.3328;0.3396;0.3464;0.3532;0.3600"/></rect>
+<rect x="244" y="206" width="726" height="42" rx="21" fill="#0a0220" stroke="#7c3aed" stroke-width="1.5"/>
+<g clip-path="url(#typed)"><text class="sub" x="270" y="234" textLength="660" lengthAdjust="spacing">&gt; python learner // bug hunter // developer in progress</text></g>
+<rect class="cur" x="273" y="216" width="10" height="22"><animate attributeName="x" dur="11s" repeatCount="indefinite" calcMode="discrete" values="273;285;297;309;321;333;345;357;369;381;393;405;417;429;441;453;465;477;489;501;513;525;537;549;561;573;585;597;609;621;633;645;657;669;681;693;705;717;729;741;753;765;777;789;801;813;825;837;849;861;873;885;897;909;921;933" keyTimes="0.0000;0.0065;0.0131;0.0196;0.0262;0.0327;0.0393;0.0458;0.0524;0.0589;0.0655;0.0720;0.0785;0.0851;0.0916;0.0982;0.1047;0.1113;0.1178;0.1244;0.1309;0.1375;0.1440;0.1505;0.1571;0.1636;0.1702;0.1767;0.1833;0.1898;0.1964;0.2029;0.2095;0.2160;0.2225;0.2291;0.2356;0.2422;0.2487;0.2553;0.2618;0.2684;0.2749;0.2815;0.2880;0.2945;0.3011;0.3076;0.3142;0.3207;0.3273;0.3338;0.3404;0.3469;0.3535;0.3600"/></rect>
 <g transform="translate(600 466)"><g class="sway"><g class="car">
 <ellipse cx="0" cy="-2" rx="150" ry="12" fill="#00f7ff" filter="url(#blur8)" opacity=".8"/>
 <rect x="-116" y="-36" width="42" height="36" rx="7" fill="#020104"/><rect x="74" y="-36" width="42" height="36" rx="7" fill="#020104"/>
@@ -65,10 +65,10 @@
 <rect x="-96" y="-90" width="6" height="12" fill="#160a36"/><rect x="90" y="-90" width="6" height="12" fill="#160a36"/>
 <rect x="-114" y="-95" width="228" height="7" rx="3.5" fill="#1d0d45" stroke="#00f7ff" stroke-opacity=".8"/>
 <rect class="tail" x="-114" y="-72" width="228" height="26" rx="6" fill="#ff1f5a" filter="url(#blur8)"/>
-<rect x="-110" y="-68" width="78" height="18" rx="4" fill="#ff2d6b"/><rect x="32" y="-68" width="78" height="18" rx="4" fill="#ff2d6b"/>
-<rect x="-104" y="-64" width="66" height="4" rx="2" fill="#ffd0dc"/><rect x="38" y="-64" width="66" height="4" rx="2" fill="#ffd0dc"/>
-<rect x="-27" y="-68" width="54" height="18" rx="3" fill="#e6edf3"/>
-<text x="0" y="-54" text-anchor="middle" style="font:800 14px ui-monospace,SFMono-Regular,'Cascadia Code',Consolas,Menlo,monospace;fill:#0a0220">LGTM</text>
+<rect x="-110" y="-68" width="72" height="18" rx="4" fill="#ff2d6b"/><rect x="38" y="-68" width="72" height="18" rx="4" fill="#ff2d6b"/>
+<rect x="-104" y="-64" width="60" height="4" rx="2" fill="#ffd0dc"/><rect x="44" y="-64" width="60" height="4" rx="2" fill="#ffd0dc"/>
+<rect x="-33" y="-68" width="66" height="18" rx="3" fill="#e6edf3"/>
+<text x="0" y="-54" text-anchor="middle" textLength="52" lengthAdjust="spacing" style="font:800 14px ui-monospace,SFMono-Regular,'Cascadia Code',Consolas,Menlo,monospace;fill:#0a0220">LEGIT</text>
 <rect x="-122" y="-36" width="244" height="13" rx="4" fill="#080312" stroke="#7c3aed" stroke-opacity=".7"/>
 <rect x="-80" y="-23" width="24" height="8" rx="4" fill="#1b1b1f" stroke="#666"/><rect x="56" y="-23" width="24" height="8" rx="4" fill="#1b1b1f" stroke="#666"/>
 </g></g></g>
